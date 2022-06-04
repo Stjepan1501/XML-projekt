@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dota2_TI>
+   <TI>
+      <Title>The International 10</Title>
+      <Year>2021</Year>
+      <Winner>Team Spirit</Winner>
+      <Line-up>
+            <Name>Illya "Yatoro" Mulyarchuk</Name>
+            <Name>Alexander "TORONTOTOKYO" Khertek</Name>
+            <Name>Magomed "Collapse" Khalilov</Name>
+            <Name>Miroslaw "Mira" Kolpakov</Name>
+            <Name>Yaroslav "Miposhka" Naidenov</Name>
+      </Line-up>
+  </TI>
+
+  <TI>
+      <Title>The International 9</Title>
+      <Year>2019</Year>
+      <Winner>OG</Winner>
+      <Line-up>
+            <Name>Johan "n0tail" Sundstein</Name>
+            <Name>Jesse "JerAx" Vainikka</Name>
+            <Name>Topias "Topson" Miikka</Name>
+            <Name>Sébastien "Ceb Félix Albert Debs</Name>
+            <Name>Anathan "ana" Pham</Name>
+      </Line-up>
+  </TI>
+
+  <TI>
+      <Title>The International 8</Title>
+      <Year>2018</Year>
+      <Winner>OG</Winner>
+      <Line-up>
+            <Name>Johan "n0tail" Sundstein</Name>
+            <Name>Jesse "JerAx" Vainikka</Name>
+            <Name>Topias "Topson" Miikka</Name>
+            <Name>Sébastien "Ceb Félix Albert Debs</Name>
+            <Name>Anathan "ana" Pham</Name>
+      </Line-up>
+  </TI>
+
+  <TI>
+      <Title>The International 7</Title>
+      <Year>2017</Year>
+      <Winner>Team Liquid</Winner>
+      <Line-up>
+            <Name>Lasse "MATUMBAMAN" Urpalainen</Name>
+            <Name>Amer "Miracle-" al-Barqawi</Name>
+            <Name>Ivan "MinD_ContRoL" Borislavov</Name>
+            <Name>Kuro "KuroKy" Salehi Takhasomi</Name>
+            <Name>Maroun "GH" Merhej</Name>
+      </Line-up>
+  </TI>
+
+  <TI>
+      <Title>The International 6</Title>
+      <Year>2016</Year>
+      <Winner>Wings Gaming</Winner>
+      <Line-up>
+            <Name>Chu "shadow" Zeyu</Name>
+            <Name>Zhou "bLink" Yang</Name>
+            <Name>Zhang "Faith_bian" Ruida</Name>
+            <Name>Zhang "y`" Yiping</Name>
+            <Name>Li "iceice" Peng</Name>
+      </Line-up>
+  </TI>
+
+  <TI>
+      <Title>The International 5</Title>
+      <Year>2015</Year>
+      <Winner> Evil Geniuses</Winner>
+      <Line-up>
+        <Name>Peter "ppd" Dager</Name>
+        <Name>Syed Sumail "SumaiL" Hassan</Name>
+        <Name>Saahil "Universe" Arora</Name>
+        <Name>Kurtis "Aui_2000" Ling</Name>
+        <Name>Clinton "Fear" Loomis</Name>
+      </Line-up>
+  </TI>
+
+  <TI>
+      <Title>The International 4</Title>
+      <Year>2014</Year>
+      <Winner>Newbee</Winner>
+      <Line-up>
+            <Name>Zhang "xiao8" Ning</Name>
+            <Name>Zhang "Mu" Pan</Name>
+            <Name>Chen "Hao" Zhihao</Name>
+            <Name>Wang "Banana" Jiao</Name>
+            <Name>Wang "SanSheng" Zhaohui</Name>
+      </Line-up>
+  </TI>
+
+    <TI>
+      <Title>The International 3</Title>
+      <Year>2013</Year>
+      <Winner>Alliance</Winner>
+      <Line-up>
+        <Name>Jonathan "Loda" Berg</Name>
+        <Name>Gustav "s4" Magnusson</Name>
+        <Name>Henrik "AdmiralBulldog" Ahnberg</Name>
+        <Name>Joakim "Akke" Akterhall</Name>
+        <Name>Jerry "EGM" Lundkvist</Name>
+      </Line-up>
+  </TI>
+
+    <TI>
+      <Title>The International 2</Title>
+      <Year>2012</Year>
+      <Winner>Invictus Gaming</Winner>
+      <Line-up>
+            <Name>Chen "Zhou" Yao</Name>
+            <Name>Wong "ChuaN" Hock Chuan</Name>
+            <Name>Zeng "Faith" Hongda</Name>
+            <Name>Luo "Ferrari_430" Feichi</Name>
+            <Name>Jiang "YYF" Cen</Name>
+      </Line-up>
+  </TI>
+
+    <TI>
+      <Title>The International 1</Title>
+      <Year>2011</Year>
+      <Winner>Natus Vincere</Winner>
+      <Line-up>
+            <Name>Alexander "XBOCT" Dashkevich</Name>
+            <Name>Ivan "Artstyle" Antonov</Name>
+            <Name>Dmitriy "LighTofHeaveN" Kupriyanov</Name>
+            <Name>Danil "Dendi" Ishutin</Name>
+            <Name>Clement "Puppey" Ivanov</Name>
+      </Line-up>
+  </TI>
+
+</Dota2_TI>

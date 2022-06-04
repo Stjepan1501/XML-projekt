@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LoL_Worlds>
+   <World>
+      <Season>Season Eleven</Season>
+      <Year>2021</Year>
+      <Winner>Edward Gaming</Winner>
+      <Line-up>
+            <Name>Li "Flandre" Xuanjun</Name>
+            <Name>Zhao "Jiejie" Lijie</Name>
+            <Name>Lee "Scout" Ye-chan</Name>
+            <Name>Park "Viper" Do-hyeon</Name>
+            <Name>Tian "Meiko" Ye</Name>
+      </Line-up>
+  </World>
+
+  <World>
+      <Season>Season Ten</Season>
+      <Year>2020</Year>
+      <Winner>DAMWON Gaming</Winner>
+      <Line-up>
+            <Name>Jang “Nuguri” Ha-gwon</Name>
+            <Name>Kim “Canyon” Geon-bu</Name>
+            <Name>Heo “ShowMaker” Su</Name>
+            <Name>Jang “Ghost” Yong-jun</Name>
+            <Name>Cho “BeryL” Geon-hee</Name>
+      </Line-up>
+  </World>
+  
+  <World>
+      <Season>Season Nine</Season>
+      <Year>2019</Year>
+      <Winner>FunPlus Phoenix</Winner>
+      <Line-up>
+            <Name>Kim “GimGoon” Han-saem</Name>
+            <Name>Gao “Tian” Tian-Liang</Name>
+            <Name>Kim “Doinb” Tae-sang</Name>
+            <Name>Lin “Lwx” Wei-Xiang</Name>
+            <Name>Liu “Crisp” Qing-Song</Name>
+      </Line-up>
+  </World>
+
+  <World>
+      <Season>Season Eight</Season>
+      <Year>2018</Year>
+      <Winner>Invictus Gaming</Winner>
+      <Line-up>
+            <Name>Kang “TheShy” Seung-lok</Name>
+            <Name>Gao “Ning” Zhen-Ning</Name>
+            <Name>Song “Rookie” Eui-jin</Name>
+            <Name>Yu “JackeyLove” Wen-Bo</Name>
+            <Name>Wang “Baolan” Liu-Yi</Name>
+      </Line-up>
+  </World>
+
+  <World>
+      <Season>Season Seven</Season>
+      <Year>2017</Year>
+      <Winner>Samsung Galaxy</Winner>
+      <Line-up>
+            <Name>Lee “CuVee” Seong-jin</Name>
+            <Name>Kang “Ambition” Chan-yong</Name>
+            <Name>Lee “Crown” Min-ho</Name>
+            <Name>Park “Ruler” Jae-hyuk</Name>
+            <Name>Jo “CoreJJ” Yong-in</Name>
+      </Line-up>
+  </World>
+
+  <World>
+      <Season>Season Six</Season>
+      <Year>2016</Year>
+      <Winner>SK Telecom T1</Winner>
+      <Line-up>
+            <Name>Lee “Duke” Ho-seong</Name>
+            <Name>Bae “Bengi” Seong-woong</Name>
+            <Name>Lee “Faker” Sang-hyeok</Name>
+            <Name>Bae “Bang” Jun-sik</Name>
+            <Name>Lee “Wolf” Jae-wan</Name>
+      </Line-up>
+  </World>
+
+  <World>
+      <Season>Season Five</Season>
+      <Year>2015</Year>
+      <Winner>SK Telecom T1</Winner>
+      <Line-up>
+        <Name>Jang “MaRin” Gyeong-hwan</Name>
+        <Name>Bae “Bengi” Seong-woong</Name>
+        <Name>Lee “Faker” Sang-hyeok</Name>
+        <Name>Bae “Bang” Jun-sik</Name>
+        <Name>Lee “Wolf” Jae-wan</Name>
+  </Line-up>
+  </World>
+
+  <World>
+      <Season>Season Four</Season>
+      <Year>2014</Year>
+      <Winner>Samsung White</Winner>
+      <Line-up>
+            <Name>Jang “Looper” Hyeong-seok</Name>
+            <Name>Choi “DanDy” In-kyu</Name>
+            <Name>Heo “PawN” Won-seok</Name>
+            <Name>Gu “imp” Seung-bin</Name>
+            <Name>Cho “Mata” Se-hyoung</Name>
+      </Line-up>
+  </World>
+
+    <World>
+      <Season>Season Three</Season>
+      <Year>2013</Year>
+      <Winner>SK Telecom T1</Winner>
+      <Line-up>
+        <Name>Jung “Impact” Eon-yeong</Name>
+        <Name>Bae “Bengi” Seong-woong</Name>
+        <Name>Lee “Faker” Sang-hyeok</Name>
+        <Name>Chae “Piglet” Gwang-jin</Name>
+        <Name>Lee “PoohManDu” Jeong-hyeon</Name>
+  </Line-up>
+  </World>
+
+    <World>
+      <Season>Season Two</Season>
+      <Year>2012</Year>
+      <Winner>Taipei Assassins</Winner>
+      <Line-up>
+            <Name>Wang “Stanley” June-Tsan</Name>
+            <Name>Sung “Lilballz” Kuan-Po</Name>
+            <Name>Wai Kin “Toyz” Lau</Name>
+            <Name>Chang “BeBe” Bo-Wei</Name>
+            <Name>Chen “MiSTaKE” Hui-Chung</Name>
+      </Line-up>
+  </World>
+
+    <World>
+      <Season>Season One</Season>
+      <Year>2011</Year>
+      <Winner>Fnatic</Winner>
+      <Line-up>
+            <Name>Enrique “xPeke” Cedeño Martínez</Name>
+            <Name>Lauri “Cyanide” Happonen</Name>
+            <Name>Maciej “Shushei” Ratuszniak</Name>
+            <Name>Manuel “LaMiaZeaLoT” Mildenberger</Name>
+            <Name>Peter “Mellisan” Meisrimel</Name>
+      </Line-up>
+  </World>
+
+</LoL_Worlds>

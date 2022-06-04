@@ -1,0 +1,30 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Name" type="xs:string"/>
+  <xs:element name="Title" type="xs:string"/>
+  <xs:element name="Year" type="xs:int"/>
+  <xs:element name="Winner" type="xs:string"/>
+  <xs:element name="Line-up">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Name" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Title"/>
+        <xs:element ref="Year"/>
+        <xs:element ref="Winner"/>
+        <xs:element ref="Line-up"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Dota2_TI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="TI" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

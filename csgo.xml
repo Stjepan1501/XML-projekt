@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CSGO_Majors>
+   <Major>
+      <Title>PGL Antwerp</Title>
+      <Year>2022</Year>
+      <Winner>FaZe Clan</Winner>
+      <Line-up>
+            <Name>Finn “karrigan” Andersen</Name>
+            <Name>Robin “ropz” Kool</Name>
+            <Name>Russel “Twistzz” Van Dulken</Name>
+            <Name>Helvijs “broky” Saukants</Name>
+            <Name>Håvard “rain” Nygaard</Name>
+      </Line-up>
+  </Major>
+
+  <Major>
+      <Title>PGL Stockholm</Title>
+      <Year>2021</Year>
+      <Winner>Natus Vincere</Winner>
+      <Line-up>
+            <Name>Ilya “Perfecto” Zalutskiy</Name>
+            <Name>Valerii “b1t” Vakhovskyi</Name>
+            <Name>Oleksandr “s1mple” Kostyliev</Name>
+            <Name>Denis “electroNic” Sharipov</Name>
+            <Name>Kirill “Boombl4” Mikhailov</Name>
+      </Line-up>
+  </Major>
+  
+  <Major>
+      <Title>StarLadder Berlin</Title>
+      <Year>2019</Year>
+      <Winner>Astralis</Winner>
+      <Line-up>
+            <Name>Emil “Magisk” Reif</Name>
+            <Name>Peter “dupreeh” Rasmussen</Name>
+            <Name>Andreas “Xyp9x” Højsleth</Name>
+            <Name>Nicolai “dev1ce” Reedtz</Name>
+            <Name>Lukas “gla1ve” Rossander</Name>
+      </Line-up>
+  </Major>
+
+  <Major>
+      <Title>IEM Katowice</Title>
+      <Year>2019</Year>
+      <Winner>Astralis</Winner>
+      <Line-up>
+            <Name>Emil “Magisk” Reif</Name>
+            <Name>Peter “dupreeh” Rasmussen</Name>
+            <Name>Andreas “Xyp9x” Højsleth</Name>
+            <Name>Nicolai “dev1ce” Reedtz</Name>
+            <Name>Lukas “gla1ve” Rossander</Name>
+      </Line-up>
+  </Major>
+
+  <Major>
+      <Title>FACEIT London</Title>
+      <Year>2018</Year>
+      <Winner>Astralis</Winner>
+      <Line-up>
+            <Name>Emil “Magisk” Reif</Name>
+            <Name>Peter “dupreeh” Rasmussen</Name>
+            <Name>Andreas “Xyp9x” Højsleth</Name>
+            <Name>Nicolai “dev1ce” Reedtz</Name>
+            <Name>Lukas “gla1ve” Rossander</Name>
+      </Line-up>
+  </Major>
+
+  <Major>
+      <Title>ELEAGUE Boston</Title>
+      <Year>2018</Year>
+      <Winner>Cloud9</Winner>
+      <Line-up>
+            <Name>Timothy “autimatic” Ta</Name>
+            <Name>Jacky “Stewie2K” Yip</Name>
+            <Name>Tyler “Skadoodle” Latham</Name>
+            <Name>Tarik “tarik” Celik</Name>
+            <Name>William “RUSH” Wierzba</Name>
+      </Line-up>
+  </Major>
+
+  <Major>
+      <Title>PGL Krakow</Title>
+      <Year>2017</Year>
+      <Winner>Gambit</Winner>
+      <Line-up>
+            <Name>Danylo “Zeus” Teslenko</Name>
+            <Name>Abai “HObbit” Hasenov</Name>
+            <Name>Däuren “AdreN” Qystaubae</Name>
+            <Name>Rüstem “mou” Telepov</Name>
+            <Name>Mikhail “Dosia” Stolyarov</Name>
+      </Line-up>
+  </Major>
+
+  <Major>
+      <Title>ELEAGUE Atlanta</Title>
+      <Year>2017</Year>
+      <Winner>Astralis</Winner>
+      <Line-up>
+            <Name>Markus “Kjaerbye” Kjærbyee</Name>
+            <Name>Peter “dupreeh” Rasmussen</Name>
+            <Name>Andreas “Xyp9x” Højsleth</Name>
+            <Name>Nicolai “dev1ce” Reedtz</Name>
+            <Name>Lukas “gla1ve” Rossander</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>ESL One Cologne</Title>
+      <Year>2016</Year>
+      <Winner>SK Gaming</Winner>
+      <Line-up>
+            <Name>Marcelo “coldzera” David</Name>
+            <Name>Epitácio “TACO” de Melo</Name>
+            <Name>Gabriel “FalleN” Toledo</Name>
+            <Name>Fernando “fer” Alvarenga</Name>
+            <Name>Lincoln “fnx” Lau</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>MLG Columbus</Title>
+      <Year>2016</Year>
+      <Winner>Luminosity Gaming</Winner>
+      <Line-up>
+            <Name>Marcelo “coldzera” David</Name>
+            <Name>Epitácio “TACO” de Melo</Name>
+            <Name>Gabriel “FalleN” Toledo</Name>
+            <Name>Fernando “fer” Alvarenga</Name>
+            <Name>Lincoln “fnx” Lau</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>DreamHack Cluj-Napoca</Title>
+      <Year>2015</Year>
+      <Winner>Envy</Winner>
+      <Line-up>
+            <Name>Nathan “NBK-” Schmitt</Name>
+            <Name>Dan “apEX” Madesclaire</Name>
+            <Name>Vincent “Happy” Cervoni Schopenhauer</Name>
+            <Name>Kenny “kennyS” Schrub</Name>
+            <Name>Fabien “kioShiMa” Fiey</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>ESL One Cologne</Title>
+      <Year>2015</Year>
+      <Winner>Fnatic</Winner>
+      <Line-up>
+            <Name>Olof “olofmeister” Kajbjer Gustafsson</Name>
+            <Name>Robin “flusha” Rönnquist</Name>
+            <Name>Jesper “JW” Wecksell</Name>
+            <Name>Markus “pronax” Wallsten</Name>
+            <Name>Freddy “KRIMZ” Johansson</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>ESL One Katowice</Title>
+      <Year>2015</Year>
+      <Winner>Fnatic</Winner>
+      <Line-up>
+            <Name>Olof “olofmeister” Kajbjer Gustafsson</Name>
+            <Name>Robin “flusha” Rönnquist</Name>
+            <Name>Jesper “JW” Wecksell</Name>
+            <Name>Markus “pronax” Wallsten</Name>
+            <Name>Freddy “KRIMZ” Johansson</Name>
+      </Line-up>
+  </Major>
+  
+    <Major>
+      <Title>DreamHack Winter</Title>
+      <Year>2014</Year>
+      <Winner>Team LDLC</Winner>
+      <Line-up>
+            <Name>Nathan “NBK-” Schmitt</Name>
+            <Name>Fabien “kioShiMa” Fiey</Name>
+            <Name>Vincent “Happy” Cervoni Schopenhauer</Name>
+            <Name>Edouard “SmithZz” Dubourdeaux</Name>
+            <Name>Richard “shox” Papillon</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>ESL One Cologne</Title>
+      <Year>2014</Year>
+      <Winner>Ninjas in Pyjamas</Winner>
+      <Line-up>
+            <Name>Christopher “GeT_RiGhT” Alesund</Name>
+            <Name>Robin “Fifflaren” Johansson</Name>
+            <Name>Adam “friberg” Friberg</Name>
+            <Name>Richard “Xizt” Landström</Name>
+            <Name>Patrik “f0rest” Lindberg</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>ESL Major Series One Katowice</Title>
+      <Year>2014</Year>
+      <Winner>Virtus.pro</Winner>
+      <Line-up>
+            <Name>Jarosław “pashaBiceps” Jarząbkowski</Name>
+            <Name>Wiktor “TaZ” Wojtas</Name>
+            <Name>Filip “NEO” Kubski</Name>
+            <Name>Janusz “Snax” Pogorzelski</Name>
+            <Name>Paweł “byali” Bieliński</Name>
+      </Line-up>
+  </Major>
+
+    <Major>
+      <Title>DreamHack Winter</Title>
+      <Year>2013</Year>
+      <Winner>Fnatic</Winner>
+      <Line-up>
+            <Name>Andreas “schneider” Lindberg</Name>
+            <Name>Robin “flusha” Rönnquist</Name>
+            <Name>Jesper “JW” Wecksell</Name>
+            <Name>Markus “pronax” Wallsten</Name>
+            <Name>Jonatan “Devilwalk” Lundberg</Name>
+      </Line-up>
+  </Major>
+
+</CSGO_Majors>
